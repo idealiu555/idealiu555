@@ -10,7 +10,7 @@
 - 🔭 I'm currently conducting research at <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST </a>
 - 🌱 My current focus is on **Java/Golang backend development** and leveraging Generative AI in computer network research
 - 📝 I regularly write articles on predictive fault analysis and AI-driven fault-tolerant migration systems
-- 👨‍💻 Previously a **Java development intern at <img src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-kwai.png" height="16" width="16">Kwai(快手)**
+<!-- - 👨‍💻 Previously a **Java development intern at <img src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-kwai.png" height="16" width="16">Kwai(快手)** -->
 - 🛠 Common tools include: <img height="20" alt="docker" src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-docker.png"><img height="20" alt="spring" src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201358-springboot.png"><img height="20" alt="rocketmq" src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201358-rocketmq.png"><img height="20" alt="mysql" src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-mysql.png"><img height="20" alt="redis" src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-redis.png"><img height="20" alt="cursor" src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-cursor.png">
 - 🤝 I'm actively exploring new professional opportunities in software development
 - 📫 Contact me at **ljc_2318516761@163.com**
