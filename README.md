@@ -8,9 +8,9 @@
 </a>
 
 - 🔭 I'm currently conducting research at <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST </a>
-- 🌱 My current interests include llm, agents, rl, and recommendation algorithms.
+- 🌱 My current interests include llm, agents, rl, search, ads & recommendation
 - 👨‍💻 Previously a Java development intern at <img src="https://oss.idealiu.cn/kwai.png" height="16" width="16">Kwai(快手)
-- 🤝 I'm actively exploring new opportunities in software development
+# - 🤝 I'm actively exploring new opportunities in software development
 - 📫 Contact me at **ljc_2318516761@163.com**
 <br>
 <br>
